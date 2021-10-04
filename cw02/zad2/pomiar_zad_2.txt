@@ -1,0 +1,3 @@
+|   Variant  |   Real   |   User   |  System  |
+|  C library  |   202    |   23    |   18    |
+| sys library |   200    |   24    |   18    |

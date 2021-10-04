@@ -1,0 +1,3 @@
+Potomek dziedziczy obsługę, ignorowanie oraz maskowanie sygnałów, ale nie dziedziczy sygnałów oczekujących.
+
+Funkcja exec "dziedziczy" wszystko, łącznie z sygnałami oczekującymi.

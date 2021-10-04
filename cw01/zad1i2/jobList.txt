@@ -1,0 +1,270 @@
+free_array
+create_array 3
+start_timer
+merge_files file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt
+stop_timer
+start_timer
+save_block 0
+stop_timer
+start_timer
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+stop_timer
+start_timer
+remove_block 0
+remove_block 0
+remove_block 0
+stop_timer
+free_array
+create_array 3
+start_timer
+merge_files A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt
+stop_timer
+start_timer
+save_block
+stop_timer
+start_timer
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+stop_timer
+start_timer
+remove_block 0
+remove_block 0
+remove_block 0
+stop_timer
+free_array
+create_array 3
+start_timer
+merge_files A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt
+stop_timer
+start_timer
+save_block
+stop_timer
+start_timer
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+stop_timer
+start_timer
+remove_block 0
+remove_block 0
+remove_block 0
+stop_timer
+free_array
+create_array 10
+start_timer
+merge_files file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt
+stop_timer
+start_timer
+save_block
+stop_timer
+start_timer
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+stop_timer
+start_timer
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+stop_timer
+free_array
+create_array 10
+start_timer
+merge_files A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt
+stop_timer
+start_timer
+save_block
+stop_timer
+start_timer
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+stop_timer
+start_timer
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+stop_timer
+free_array
+create_array 10
+start_timer
+merge_files A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt
+stop_timer
+start_timer
+save_block
+stop_timer
+start_timer
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+stop_timer
+start_timer
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+stop_timer
+free_array
+create_array 20
+start_timer
+merge_files file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt file1.txt:file2.txt
+stop_timer
+start_timer
+save_block
+stop_timer
+start_timer
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+stop_timer
+start_timer
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+stop_timer
+free_array
+create_array 20
+start_timer
+merge_files A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt A1000.txt:B1000.txt
+stop_timer
+start_timer
+save_block
+stop_timer
+start_timer
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+stop_timer
+start_timer
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+stop_timer
+free_array
+create_array 20
+start_timer
+merge_files A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt A10000.txt:B10000.txt
+stop_timer
+start_timer
+save_block
+stop_timer
+start_timer
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+load_block
+remove_block 0
+stop_timer
+start_timer
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+remove_block 0
+stop_timer
+
+
+
